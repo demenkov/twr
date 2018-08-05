@@ -1,0 +1,10 @@
+{
+    "name": "demenkov/twr",
+    "description": "twr",
+    "type": "project",
+    "require": {
+        "phpoffice/phpspreadsheet": "dev-master"
+    },
+    "license": "proprietary",
+    "minimum-stability": "dev"
+}
